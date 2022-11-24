@@ -155,7 +155,10 @@ footer div a{
 
     width: 40%;
     padding-top: 40px;
-    color: white;
+    color: white; 
+    position: relative;
+    top: 100px;
+    left: -50px;
     }
 
 footer form {
